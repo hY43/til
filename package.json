@@ -1,0 +1,16 @@
+{
+  "name": "til",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hY43/til.git",
+  "author": "hy43 <hyde0401@gmail.com>",
+  "scripts": {
+    "docs:dev": "vuepress dev",
+    "docs:build": "vuepress build",
+    "docs:eject": "vuepress eject"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  }
+}
