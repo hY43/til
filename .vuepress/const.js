@@ -5,5 +5,5 @@ exports.Kotlin = [
 	"kotlin/test.md"
 ];
 exports.Android = [
-	"android/test.md"
+	"android/안드로이드 개발자 로드맵.md"
 ];
