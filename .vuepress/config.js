@@ -12,7 +12,12 @@ module.exports = {
     sidebar: [
 		{
 			title: 'Java',
-			children: CONST.Java
+			children: [
+                {
+                    title: 'StudyHalle',
+                    children: CONST.Java
+                }
+            ]
 		},
         {
             title: 'Kotlin',

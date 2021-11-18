@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ddaa89b5-0042-4925-9d6f-1d74f1030b8c" name="Changes" comment="add category(android, kotlin)">
-      <change afterPath="$PROJECT_DIR$/.vuepress/dist" afterDir="false" />
+    <list default="true" id="ddaa89b5-0042-4925-9d6f-1d74f1030b8c" name="Changes" comment="add java study week 1">
       <change afterPath="$PROJECT_DIR$/node_modules/.bin/acorn" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/.bin/ansi-html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/.bin/atob" afterDir="false" />
@@ -19001,8 +19000,9 @@
       <change afterPath="$PROJECT_DIR$/node_modules/zepto/src/touch.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/zepto/src/zepto.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/.vuepress/config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.vuepress/const.js" beforeDir="false" afterPath="$PROJECT_DIR$/.vuepress/const.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/test.md" beforeDir="false" afterPath="$PROJECT_DIR$/java/[백기선 자바스터디] 1주차_JVM.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/[백기선 자바스터디] 1주차_JVM.md" beforeDir="false" afterPath="$PROJECT_DIR$/java/studyHalle/[백기선 자바스터디] 1주차_JVM.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19036,6 +19036,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/java/studyHalle" />
+      <recent name="$PROJECT_DIR$/java" />
+      <recent name="$PROJECT_DIR$/java/STUDYHALLE" />
       <recent name="$PROJECT_DIR$/.vuepress" />
     </key>
   </component>
@@ -19047,7 +19050,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1636934918260</updated>
-      <workItem from="1636934923011" duration="9432000" />
+      <workItem from="1636934923011" duration="11943000" />
     </task>
     <task id="LOCAL-00001" summary="gh-pages">
       <created>1636936465587</created>
@@ -19084,7 +19087,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637029163165</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add java study week 1">
+      <created>1637107426200</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1637107426200</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -19105,6 +19115,7 @@
     <MESSAGE value="gh-pages" />
     <MESSAGE value="add proto" />
     <MESSAGE value="add category(android, kotlin)" />
-    <option name="LAST_COMMIT_MESSAGE" value="add category(android, kotlin)" />
+    <MESSAGE value="add java study week 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="add java study week 1" />
   </component>
 </project>
