@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ddaa89b5-0042-4925-9d6f-1d74f1030b8c" name="Changes" comment="add android">
+    <list default="true" id="ddaa89b5-0042-4925-9d6f-1d74f1030b8c" name="Changes" comment="인프런 &quot;스프링부트 JPA 강의 내용 정리&quot;">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/til.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.vuepress/dist" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/studyHalle/[백기선 자바스터디] 1주차_JVM.md" beforeDir="false" afterPath="$PROJECT_DIR$/java/studyHalle/[백기선 자바스터디] 1주차_JVM.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/[Inflearn] SpringBoot+JPA/01 프로젝트 환경설정.md" beforeDir="false" afterPath="$PROJECT_DIR$/spring/[Inflearn] SpringBoot+JPA/01 프로젝트 환경설정.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +45,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -62,6 +65,10 @@
       <updated>1636934918260</updated>
       <workItem from="1636934923011" duration="11943000" />
       <workItem from="1637196634708" duration="6421000" />
+      <workItem from="1637371166623" duration="597000" />
+      <workItem from="1637887240679" duration="6343000" />
+      <workItem from="1638150994400" duration="73000" />
+      <workItem from="1638151412987" duration="726000" />
     </task>
     <task id="LOCAL-00001" summary="gh-pages">
       <created>1636936465587</created>
@@ -119,7 +126,21 @@
       <option name="project" value="LOCAL" />
       <updated>1637239154404</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="week 1">
+      <created>1637371199529</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1637371199529</updated>
+    </task>
+    <task id="LOCAL-00010" summary="인프런 &quot;스프링부트 JPA 강의 내용 정리&quot;">
+      <created>1637908066276</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1637908066276</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,6 +164,12 @@
     <MESSAGE value="add category(android, kotlin)" />
     <MESSAGE value="add java study week 1" />
     <MESSAGE value="add android" />
-    <option name="LAST_COMMIT_MESSAGE" value="add android" />
+    <MESSAGE value="week 1" />
+    <MESSAGE value="인프런 &quot;스프링부트 JPA 강의 내용 정리&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="인프런 &quot;스프링부트 JPA 강의 내용 정리&quot;" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
